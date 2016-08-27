@@ -237,7 +237,7 @@ Leopardo is one of the nation’s largest and most respected construction firms,
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>Start the questionnaire</h2>
-                <a href="src/questionnaire.html" class="btn btn-default btn-xl sr-button">Start Now!</a>
+                <a href="src/questionnaire.html" class="btn btn-default btn-xl sr-button">Download Now!</a>
             </div>
         </div>
     </aside>
